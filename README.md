@@ -293,14 +293,4 @@ kill -9 <PID>
 **Database:**
 - MySQL
 
-## 📄 License
-
-MIT License - feel free to use this project
-
-## 🤝 Support
-
-For issues or questions, feel free to open an issue on GitHub.
-
----
-
 **Made with ♥ by Naga Veera Mukunda S**
